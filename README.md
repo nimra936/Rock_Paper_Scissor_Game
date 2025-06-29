@@ -58,15 +58,16 @@ Type exit to quit the game.
 - Python 3.x
 - No third-party libraries required (only random module from standard library)
 
-## ⚙️ Upgrade ideas
-We can upgrade it for more impact:
+---
 
-Add a GUI using Tkinter, PyGame, or Kivy
+## ⚙️ Upcoming Upgrades
 
-Add a score history using file I/O or database
+I plan to enhance this project soon with the following improvements:
 
-Turn it into a web app using Flask
+- Add a graphical user interface (GUI) using Tkinter, PyGame, or Kivy
+- Implement score history saving via file I/O or a database
+- Develop a web version using Flask
+- Include unit testing with pytest or unittest frameworks
+- Package the game as a CLI tool with argparse for better command-line usability
 
-Add unit tests with pytest or unittest
-
-Package it as a CLI tool using argparse
+Stay tuned for these exciting updates!
